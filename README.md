@@ -1,7 +1,7 @@
 # Joji Sample Pack
 This is a GitHub repo for the Joji Sample Pack project.
 
-Special thanks to Reddit user '-JWS-' for providing a large number of the samples in the pack!!
+Special thanks to Reddit user [-JWS-](https://www.reddit.com/user/-JWS-) for providing a large number of the samples in the pack!!
 
 ## What is the Joji Sample Pack?
 The Joji Sample Pack is a collection of sounds taken from Joji's music. Each selection of sounds are separated into different folders to make things more organized. This is a useful pack for anyone who wants to make a remix of a Joji song, as well as any fan-made content or anything similar.
