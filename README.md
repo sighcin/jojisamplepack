@@ -9,11 +9,19 @@ I believe that using GitHub makes it much easier to track changes and updates to
 
 ### Download Links
 To download this whole pack, you have two options:
+
 Option 1: Download it from Google Drive with this link:
 <insert link here>
+
 Option 2: Using the buttons above, download the entire repo as a ZIP.
 
 Please remember, this pack is regularly updated, so the Google Drive link may not always be up-to-date.
 
 ### Disclaimer
 I am not intending any copyright infringement here. This is a fan-made pack of sounds extracted from Joji's music. However, if you are the copyright holder of any of the sounds in this repository, or if you do not want a sound to appear in this pack, please email me and we can resolve this. Thank you.
+
+My email address: onkarmatharu@outlook.com
+
+Alternatively, an easier way of contacting me would be in my Discord server:
+
+https://discord.gg/M4rd7fp
