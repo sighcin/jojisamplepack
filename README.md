@@ -13,7 +13,7 @@ I believe that using GitHub makes it much easier to track changes and updates to
 To download this whole pack, you have two options:
 
 Option 1: Download it from Google Drive with this link:
-<insert link here>
+(LINK NOT AVAILABLE YET DUE TO THE PACK BEING INCOMPLETE)
 
 Option 2: Using the buttons above, download the entire repo as a ZIP.
 
