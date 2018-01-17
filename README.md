@@ -22,6 +22,6 @@ Discord: https://discord.gg/4U3tNEM
 ### Disclaimer.
 No copyright infringement intended. This is a fan-made pack of sounds extracted from Joji's music. However, if you are the copyright holder of any of the sounds in this repository, or if you do not want a sound to appear in this pack, please email me and we can resolve this. Thank you.
 
-Email me for any queries and/or comments.
+Also, email me for any queries and/or comments.
 
 onkz@onkz.uk
