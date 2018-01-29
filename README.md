@@ -1,6 +1,6 @@
 # The Joji Sample Pack Project.
 It's 2018. And I think we're just about done.
-There might not be any more action with this project, but we will be uploading the whole sample pack within the next few days (probably will be complete on Jan 21st 2018).
+There might not be any more action with this project, but we will be uploading the whole sample pack extremely soon.
 
 Thanks for the wait.
 We hope y'all will enjoy it.
